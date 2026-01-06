@@ -67,3 +67,15 @@ logits, aux_pred, aux_target = model(images, return_aux=True)
 Operating Environment
 Python 3.9.16
 PyTorch 2.4.1
+
+
+5. Terms of Use
+This model is open-sourced under the MIT License.
+You are free to use it in commercial projects.
+If you use this model, we suggest (non-mandatory):
+（1）Cite our paper (BibTex provided).
+（2）Acknowledge the use of this model.
+（3）Share your improvement experience.
+
+Contact Us
+For commercial collaboration or technical inquiries, please contact: gxiong@sjtu.edu.cn
